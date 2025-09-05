@@ -1,0 +1,17 @@
+Configuration Settings - Sample 3
+
+# Application Settings
+app_name=SampleApp
+version=1.0.0
+debug_mode=true
+
+# Database Configuration
+db_host=localhost
+db_port=5432
+db_name=sample_db
+db_user=admin
+
+# API Settings
+api_endpoint=https://api.example.com
+api_timeout=30
+max_retries=3

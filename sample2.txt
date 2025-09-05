@@ -1,0 +1,18 @@
+Sample File 2 - Data Collection
+
+This file contains sample data entries:
+
+Name: John Doe
+Age: 30
+City: New York
+Occupation: Software Developer
+
+Name: Jane Smith
+Age: 25
+City: Los Angeles
+Occupation: Designer
+
+Name: Mike Johnson
+Age: 35
+City: Chicago
+Occupation: Manager
