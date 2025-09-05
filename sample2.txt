@@ -2,7 +2,7 @@ Sample File 2 - Data Collection
 
 This file contains sample data entries:
 
-Name: John Doe
+Name: Lynn Joseph
 Age: 30
 City: New York
 Occupation: Software Developer
